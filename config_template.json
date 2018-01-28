@@ -1,0 +1,11 @@
+{
+  "default_sender":"NAME <MAIL@@DOMAIN>",
+  "tgtoken":"",
+  "mail":{
+    "username":"",
+    "password":""
+  },
+  "whitelist":{
+    "75577655":"glor8",
+  }
+}
